@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="byki_schema.xsd" formatVersion="2">
+	<head>
+		<name>Essentials Plus: Unit 02, Lesson 01</name>
+		<side1_language_key>ENGLISH</side1_language_key>
+		<side2_language_key>RUSSIAN</side2_language_key>
+		<description>Created By Transparent Language</description>
+		<creator>Copyright Transparent Language</creator>
+		<creator_url></creator_url>
+		<creator_application>BykiLister</creator_application>
+		<subject_name></subject_name>
+		<side1_title></side1_title>
+		<side2_title></side2_title>
+		<creation_date>2011-05-03T21:02:53</creation_date>
+		<is_themed>false</is_themed>
+		<is_government>false</is_government>
+		<is_library>false</is_library>
+		<is_alternative_side2_present>false</is_alternative_side2_present>
+		<is_ordered>true</is_ordered>
+		<is_transliteration_shown>false</is_transliteration_shown>
+		<ListProtection>
+			<is_Protected_Editing>false</is_Protected_Editing>
+			<is_Protected_Copying>false</is_Protected_Copying>
+			<is_Protected_Sharing>false</is_Protected_Sharing>
+		</ListProtection>
+		<LearningFeatures>
+			<is_PreviewIt>true</is_PreviewIt>
+			<is_SR_RecognizeIt>true</is_SR_RecognizeIt>
+			<is_Written_RecognizeIt>true</is_Written_RecognizeIt>
+			<is_SR_ProduceIt>true</is_SR_ProduceIt>
+			<is_Written_ProduceIt>true</is_Written_ProduceIt>
+		</LearningFeatures>
+	</head>
+	<cards>
+		<card>
+			<side1_phrase>schedule</side1_phrase>
+			<side2_phrase>расписа́ние</side2_phrase>
+			<guid>{85FB802B-1123-4D6B-9727-334071AA19C8}</guid>
+			<list_position>1</list_position>
+			<side2_transliteration>raspisániye</side2_transliteration>
+			<side2_sound url="sounds/learn000.mp3"/>
+			<side2_picture url="pictures/image000.jpg"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+			<side1_alt_answers>
+				<alt_answer>timetable</alt_answer>
+			</side1_alt_answers>
+		</card>
+		<card>
+			<side1_phrase>to look at the schedule</side1_phrase>
+			<side2_phrase>посмотре́ть расписа́ние</side2_phrase>
+			<guid>{ED582889-D9FF-443B-A68C-6FEBCD830138}</guid>
+			<list_position>2</list_position>
+			<side2_transliteration>posmotrét&apos; raspisániye</side2_transliteration>
+			<side2_sound url="sounds/learn001.mp3"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+		<card>
+			<side1_phrase>I can</side1_phrase>
+			<side2_phrase>я могу́</side2_phrase>
+			<guid>{DB1E4140-EA42-47D6-A59F-BA81EF6F8FB8}</guid>
+			<list_position>3</list_position>
+			<side2_transliteration>ya mogú</side2_transliteration>
+			<side2_sound url="sounds/learn002.mp3"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+		<card>
+			<side1_phrase>Where can I look at the schedule?</side1_phrase>
+			<side2_phrase>Где я могу́ посмотре́ть расписа́ние?</side2_phrase>
+			<guid>{D4F59993-2045-44E2-A8C6-A67D9E73CBB4}</guid>
+			<list_position>4</list_position>
+			<side2_transliteration>Gde ya mogú posmotrét&apos; raspisániye?</side2_transliteration>
+			<side2_sound url="sounds/learn003.mp3"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+		<card>
+			<side1_phrase>ticket</side1_phrase>
+			<side2_phrase>биле́т</side2_phrase>
+			<guid>{567708A5-9E26-4558-A668-C155B3AC2DEE}</guid>
+			<list_position>5</list_position>
+			<side2_transliteration>bilét</side2_transliteration>
+			<side2_sound url="sounds/learn004.mp3"/>
+			<side2_picture url="pictures/image004.jpg"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+		<card>
+			<side1_phrase>to book a ticket</side1_phrase>
+			<side2_phrase>заброни́ровать биле́т</side2_phrase>
+			<guid>{325075AC-56B4-47A0-A12B-6908032838E8}</guid>
+			<list_position>6</list_position>
+			<side2_transliteration>zabronírovat&apos; bilét</side2_transliteration>
+			<side2_sound url="sounds/learn005.mp3"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+		<card>
+			<side1_phrase>I would like...</side1_phrase>
+			<side2_phrase>Я бы хоте́л…</side2_phrase>
+			<guid>{34EF63B0-9394-4CF5-B4A3-38CEC7899EA1}</guid>
+			<list_position>7</list_position>
+			<side1_hint>spoken by a male</side1_hint>
+			<side2_transliteration>Ya by khotél...</side2_transliteration>
+			<side2_sound url="sounds/learn006.mp3"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+		<card>
+			<side1_phrase>a ticket to Moscow</side1_phrase>
+			<side2_phrase>биле́т до Москвы́</side2_phrase>
+			<guid>{54E03947-1DC9-4F19-91D8-B20C19B7E461}</guid>
+			<list_position>8</list_position>
+			<side2_transliteration>bilét do Moskvý</side2_transliteration>
+			<side2_sound url="sounds/learn007.mp3"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+		<card>
+			<side1_phrase>I would like to buy a ticket to Moscow.</side1_phrase>
+			<side2_phrase>Я бы хоте́л купи́ть биле́т до Москвы́.</side2_phrase>
+			<guid>{0934C7DF-7307-4B24-8854-DE01764A6370}</guid>
+			<list_position>9</list_position>
+			<side2_transliteration>Ya by khotél kupít&apos; bilét do Moskvý.</side2_transliteration>
+			<side2_sound url="sounds/learn008.mp3"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+		<card>
+			<side1_phrase>OK.</side1_phrase>
+			<side2_phrase>Хорошо́.</side2_phrase>
+			<guid>{49056113-4E4A-4D9B-A07F-A880514FA5DA}</guid>
+			<list_position>10</list_position>
+			<side2_transliteration>Khoroshó.</side2_transliteration>
+			<side2_sound url="sounds/learn009.mp3"/>
+			<side2_picture url="pictures/image009.jpg"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+			<comment>&quot;Хорошо́.&quot; [Khoroshó.] can also mean &quot;Good.&quot;</comment>
+			<side1_alt_answers>
+				<alt_answer>Good.</alt_answer>
+			</side1_alt_answers>
+		</card>
+		<card>
+			<side1_phrase>flight</side1_phrase>
+			<side2_phrase>рейс</side2_phrase>
+			<guid>{52C93F61-DA0E-4FC9-ABCB-9F35BC083B32}</guid>
+			<list_position>11</list_position>
+			<side2_transliteration>reys</side2_transliteration>
+			<side2_sound url="sounds/learn010.mp3"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+		<card>
+			<side1_phrase>New York</side1_phrase>
+			<side2_phrase>Нью-Йо́рк</side2_phrase>
+			<guid>{FE36F714-E3B9-4437-9EB6-CA85261F1751}</guid>
+			<list_position>12</list_position>
+			<side2_transliteration>N&apos;yu-Yórk</side2_transliteration>
+			<side2_sound url="sounds/learn011.mp3"/>
+			<side2_picture url="pictures/image011.jpg"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+		<card>
+			<side1_phrase>from New York</side1_phrase>
+			<side2_phrase>из Нью-Йо́рка</side2_phrase>
+			<guid>{CCE84190-3DF4-4399-B8CF-4CE3F79946A0}</guid>
+			<list_position>13</list_position>
+			<side2_transliteration>iz N&apos;yu-Yórka</side2_transliteration>
+			<side2_sound url="sounds/learn012.mp3"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+		<card>
+			<side1_phrase>city</side1_phrase>
+			<side2_phrase>го́род</side2_phrase>
+			<guid>{32286087-F211-404F-8A02-D60EEB3E4C36}</guid>
+			<list_position>14</list_position>
+			<side2_transliteration>górod</side2_transliteration>
+			<side2_sound url="sounds/learn013.mp3"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+			<comment>All Russian nouns are divided into three genders: masculine, feminine and neuter. The gender can be determined by the ending of a noun.</comment>
+			<side1_alt_answers>
+				<alt_answer>town</alt_answer>
+			</side1_alt_answers>
+		</card>
+		<card>
+			<side1_phrase>round trip</side1_phrase>
+			<side2_phrase>туда́ и обра́тно</side2_phrase>
+			<guid>{8518CF16-62AA-47C4-B395-54345E0AB150}</guid>
+			<list_position>15</list_position>
+			<side1_hint>adverb</side1_hint>
+			<side2_transliteration>tudá i obrátno</side2_transliteration>
+			<side2_sound url="sounds/learn014.mp3"/>
+			<is_video_sound_used>false</is_video_sound_used>
+			<is_video_auto_played>false</is_video_auto_played>
+		</card>
+	</cards>
+</list>	
